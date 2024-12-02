@@ -3,6 +3,12 @@
 > "Leveling up my skills to become the strongest Developer!"
 
 Greetings, hunter! I’m Sai Teja, a **Full Stack Developer** on a relentless quest to level up and conquer new challenges in the world of code. Like Sung Jin-Woo, I started as a low-ranking “hunter,” but I’m evolving with each project and pushing my limits in pursuit of mastery!
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 ---
 
