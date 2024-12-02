@@ -1,16 +1,18 @@
-# 🔥 Welcome to My Dungeon! 🔥
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thesaiteja24.thesaiteja24" />
 
-> "Leveling up my skills to become the strongest Developer!"
+<h1 align="center">🔥 Welcome to My Dungeon! 🔥</h1>
 
-Greetings, hunter! I’m Sai Teja, a **Full Stack Developer** on a relentless quest to level up and conquer new challenges in the world of code. Like Sung Jin-Woo, I started as a low-ranking “hunter,” but I’m evolving with each project and pushing my limits in pursuit of mastery!
+> _"Leveling up my skills to become the strongest Developer!"_
+
+Greetings, hunter! I’m **Sai Teja**, a **Full Stack Developer** on a relentless quest to evolve and conquer challenges in the coding realm. Just like **Sung Jin-Woo**, I started as a low-ranking “hunter,” but I’m grinding every day to unlock **S-rank** skills!
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Snake Game" src="dist/github-snake.svg" />
-</picture>
 
+## My Contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesaiteja24/thesaiteja24/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
 
 ---
 
@@ -18,82 +20,105 @@ Greetings, hunter! I’m Sai Teja, a **Full Stack Developer** on a relentless qu
 
 ### ⚔️ Offensive Skills (Frontend)
 
-- **Languages:**
-  <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-- **Frameworks:**
-  <img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-- **Leveling Up:**
-  Advanced CSS Animations,
-  React Hooks
+- **Languages**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" alt="JavaScript" title="JavaScript" />
+
+- **Frameworks**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="26" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" alt="Tailwind CSS" title="Tailwind CSS" />
+
+- **Leveling Up**:
+  Advanced CSS Animations, React Hooks
+
+---
 
 ### 🛡️ Defensive Skills (Backend)
 
-- **Languages:**
-  <img align="center" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-- **Frameworks:**
-  <img align="center" alt="Express" width="26px" src="./img/express-dark.png" style="padding-right:10px;" />
-  <img align="center" alt="Flask" width="26px" src="./img/flask.png" style="padding-right:10px; filter: invert(100%);" class="" />
-- **Databases:**
-  <img align="center" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-- **Boss Level:** REST APIs, Authentication
+- **Languages**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" alt="Python" title="Python" />
+
+- **Frameworks**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="26" alt="Express.js" title="Express.js" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="26" alt="Flask" title="Flask" style="filter: invert(100%);" />
+
+- **Databases**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" alt="MongoDB" title="MongoDB" />
+
+- **Boss Level Skills**:
+  REST APIs, Authentication
+
+---
 
 ### 🧙 Summoning & Enchantment (Tools & Miscellaneous)
 
-- **Version Control:**
-  <img align="center" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="GitHub" width="26px" src="./img/github.png" style="padding-right:10px; filter: invert(100%);"/>
-- **Cloud Magic:** <img align="center" alt="Cloudinary" width="26px" src="./img/cloudinary.svg" style="padding-right:10px;"/>
-- **Other Artifacts:**
-  <img align="center" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
-  <img align="center" alt="Selenium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
+- **Version Control**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" alt="GitHub" title="GitHub" style="filter: invert(100%);" />
+
+- **Cloud Magic**:
+  <img src="./img/cloudinary.svg" width="26" alt="Cloudinary" title="Cloudinary" />
+
+- **Artifacts**:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="26" alt="Selenium" title="Selenium" />
 
 ---
 
 ## 📜 Dungeon Raid Records (Projects)
 
-### **🏨 Wanderlust Hotel Booking Platform (S-rank)**
+### 🏨 **Wanderlust Hotel Booking Platform (S-rank)**
 
-A **MERN stack** hotel booking platform where users can manage listings, create reviews, and even track reservations. Built to give users a seamless experience while exploring the realm of travel.<br>
-[Check the Project repo!](https://github.com/thesaiteja24/wanderlust-mern)
+A **MERN stack** hotel booking platform where users can manage listings, create reviews, and track reservations seamlessly.  
+[🎮 Try It Out Here](https://wanderlust-mern-ic8u.onrender.com/listings)  
+[🗂 Check the Project Repo](https://github.com/thesaiteja24/wanderlust-mern)
 
-### **🖥️ Simon Says Game (B-rank)**
+---
 
-A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. This project helped me hone my skills in DOM manipulation and game logic.<br>
-[Try it out here!](https://sai-teja-web-dev-projects.on.drv.tw/www.saiteja.dev/)<br>
-[Check the Project repo!](https://github.com/thesaiteja24/javascript-simon-says)
+### 🖥️ **Simon Says Game (B-rank)**
+
+A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a great adventure to enhance DOM manipulation and game logic skills.  
+[🎮 Try It Out Here](https://sai-teja-web-dev-projects.on.drv.tw/www.saiteja.dev/)  
+[🗂 Check the Project Repo](https://github.com/thesaiteja24/javascript-simon-says)
 
 ---
 
 ## 📊 Current Level
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaiteja24&layout=donut&theme=tokyonight"  width=35.5% style="margin-left:7rem;"/>
-
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=highcontrast)
+<img src="https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+
 </div>
+
+---
 
 ## 🧗 Current Quest
 
-I'm leveling up in:
-
 - **Machine Learning & Data Science** with Zero to Mastery
-- **Real-Time Communication** with WebRTC for advanced video calling features
-- Preparing for **hackathons** to gain experience points and conquer new dungeons in the tech world!
+- **Real-Time Communication** using WebRTC for advanced video call features
+- Preparing for **Hackathons** to gain experience and conquer tech dungeons!
 
 ---
 
-## Reach Out to Party Up (Contact Me)
+## 🤝 Reach Out to Party Up (Contact Me)
 
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/saitejapatsa#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/saitejapatsa#gh-dark-mode-only)
+<div align="center">
+  <a href="mailto:thesaiteja24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/saitejapatsa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
-I’m just getting started on my journey to becoming an **S-rank developer**. Thanks for exploring my dungeon, and remember — _I alone will level up!_ 💪
+> I’m just getting started on my journey to becoming an **S-rank developer**. Thanks for exploring my dungeon, and remember — _I alone will level up!_ 💪 
+<br>
+Jk Let's level up together! 😉
