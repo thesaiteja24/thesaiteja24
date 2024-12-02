@@ -42,7 +42,7 @@ Greetings, hunter! I’m **Sai Teja**, a **Full Stack Developer** on a relentles
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" alt="Python" title="Python" />
 
 - **Frameworks**:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="26" alt="Express.js" title="Express.js" style="filter: invert(100%);" />
+  <img src="./img/express-dark.png" width="26" alt="Express.js" title="Express.js" style="filter: invert(100%);" />
   <img src="./img/flask-dark.png" width="26" alt="Flask" title="Flask" style="filter: invert(100%);" />
 
 - **Databases**:
@@ -127,6 +127,6 @@ A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a g
 
 ---
 
-> I’m just getting started on my journey to becoming an **S-rank developer**. Thanks for exploring my dungeon, and remember — _I alone will level up!_ 💪 
-<br>
-Jk Let's level up together! 😉
+> I’m just getting started on my journey to becoming an **S-rank developer**. Thanks for exploring my dungeon, and remember — _I alone will level up!_ 💪
+> <br>
+> Jk Let's level up together! 😉
