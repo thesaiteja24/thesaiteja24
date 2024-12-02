@@ -91,8 +91,16 @@ A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a g
 
 <div align="center">
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=highcontrast)
-<img src="https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=highcontrast" alt="Sai's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -109,7 +117,7 @@ A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a g
 ## 🤝 Reach Out to Party Up (Contact Me)
 
 <div align="center">
-  <a href="mailto:thesaiteja24@gmail.com">
+  <a href="mailto:iamsaiteja2411@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/saitejapatsa" target="_blank">
