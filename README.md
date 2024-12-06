@@ -90,18 +90,8 @@ A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a g
 ## 📊 Current Level
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=thesaiteja24&show_icons=true&theme=highcontrast" alt="Sai's GitHub stats" />
-    </td>
-    <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=thesaiteja24&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 </div>
 
 ---
