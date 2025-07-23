@@ -16,6 +16,14 @@ Greetings, hunter! I’m **Sai Teja**, a **Full Stack Developer** on a relentles
 
 ---
 
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesaiteja24&theme=darkhub&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest,Issues,Experience" />
+</div>
+
+---
+
 ## 💪 Skills and Abilities
 
 ### ⚔️ Offensive Skills (Frontend)
